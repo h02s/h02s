@@ -1,6 +1,6 @@
 # Hoss
 
-**AI · Computer Engineering · Software Development**
+**Artificial Intelligence · Software Development · Data & Imaging**
 
 I enjoy turning technical ideas into working implementations through careful experimentation, practical evaluation, and continuous learning. My work and interests span artificial intelligence, image and signal processing, data analysis, and software systems.
 
