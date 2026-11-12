@@ -1,58 +1,71 @@
-# Hi, I'm Hoss 👋
+# Hoss
 
-**Computer Engineer · M.Sc. Student in Artificial Intelligence & Robotics · Software Developer**
+**AI · Computer Engineering · Software Development**
 
-I enjoy understanding how things work, turning ideas into practical implementations, and documenting what I learn. My current interests sit at the intersection of **artificial intelligence, image processing, and software engineering**.
+I enjoy turning technical ideas into working implementations through careful experimentation, practical evaluation, and continuous learning. My work and interests span artificial intelligence, image and signal processing, data analysis, and software systems.
 
-[![Website](https://img.shields.io/badge/Portfolio-h02s.github.io-b4f36b?style=flat-square&logo=astro&logoColor=111111)](https://h02s.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-h02s-181717?style=flat-square&logo=github)](https://github.com/h02s)
+[![Portfolio](https://img.shields.io/badge/Portfolio-h02s.github.io-8b9a7a?style=flat-square)](https://h02s.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-h02s-24292f?style=flat-square&logo=github)](https://github.com/h02s)
 [![Email](https://img.shields.io/badge/Email-Contact-64748b?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@hdfmy.ir)
 
 ---
 
-## What I'm interested in
+## Areas of Interest
 
-- **Artificial Intelligence:** machine learning and practical AI systems.
-- **Image Processing & Computer Vision:** image analysis, classical processing methods, and experiments.
-- **Software Engineering:** backend development, APIs, and maintainable applications.
-- **Linux & Open Source:** developer tooling, self-hosted environments, and systems exploration.
+- **Computer Vision & Image Processing** — image analysis, preprocessing, detection, segmentation, tracking, and motion analysis.
+- **Medical AI & Biomedical Imaging** — image-based analysis and practical AI applications in healthcare.
+- **Geospatial AI & Remote Sensing** — analysis of spatial data and remotely sensed imagery.
+- **Financial Data Analytics** — data-driven analysis of financial markets and time series.
+- **Multimodal AI & Intelligent Agents** — LLMs, retrieval-augmented generation, tool use, and agentic workflows.
+- **Efficient & Green AI** — resource-aware methods, local inference, and practical optimization.
 
-## Selected work
+## Selected Technical Work
 
-| Project | What it explores |
+| Area | Work |
 |---|---|
-| [Colibrì](https://github.com/h02s/colibri) | A C-based local inference engine exploring memory-aware execution for large mixture-of-experts models. |
-| [Personal Portfolio](https://h02s.github.io) | My portfolio and technical notebook, built with Astro and deployed on GitHub Pages. |
+| **Web Application Development** | Developed a Django-based e-commerce application, including server-side structure and core application logic. |
+| **Backend Integration** | Worked with OTP authentication, REST APIs, S3-compatible object storage, and background task execution with Celery. |
+| **Speech & Signal Processing** | Prepared speech audio for analysis, explored FFT/STFT representations, and compared denoising outputs across noisy intervals. |
+| **Persian Speech Technologies** | Set up local inference for Persian text-to-speech and explored Persian automatic speech recognition models. |
+| **Local AI Inference** | Experimented with local model execution and model formats, including Qwen and Gemma GGUF resources, using Ollama and Hugging Face. |
 
-More experiments and repositories: **[github.com/h02s](https://github.com/h02s?tab=repositories)**
+## Technical Skills
 
-## Tools & technologies
+**Programming & Software Development**  
+Python · SQL · PHP · Modular programming · Virtual environments · Dependency management
 
-**Languages**  
-Python · PHP · C · JavaScript · SQL
+**Scientific Computing & Data Analysis**  
+NumPy · Pandas · SciPy · scikit-learn · Matplotlib · Seaborn · Jupyter · RapidMiner · Power BI
 
-**Frameworks & development**  
-Django · Laravel · Astro · Git
+**Machine Learning & Deep Learning**  
+Machine learning fundamentals · Model training and evaluation · Validation · Result analysis · PyTorch
 
-**AI & data**  
-Machine Learning · Image Processing · NumPy · OpenCV
+**Computer Vision, Image & Signal Processing**  
+OpenCV · Image preprocessing and augmentation · Detection and segmentation fundamentals · FFT · STFT · Filtering · Time-frequency analysis · SciPy.signal · soundfile
 
-**Systems**  
-Linux · Docker · Incus · Networking
+**NLP, LLMs & Agentic Systems**  
+Hugging Face Hub · Transformers · Datasets · Tokenizers · Prompt design · Embeddings · RAG · Tool/function calling · Structured outputs · LangChain and LangGraph (familiarity)
 
-## Currently
+**Web, APIs & Databases**  
+Django · REST APIs · HTTP/JSON · Requests · FastAPI (familiarity) · OTP integration · MongoDB · SQL databases
 
-- Deepening my foundations in machine learning and digital image processing.
-- Building small, reproducible programming experiments.
-- Improving my software engineering practices through implementation and documentation.
+**Infrastructure & Developer Tools**  
+Linux (Debian) · Git · GitHub · Docker · SSH · Virtualization · Incus/LXC · n8n · Hadoop and Spark (familiarity)
 
-## Let's connect
+**Local AI Ecosystem**  
+Ollama · GGUF · Local model inference · Qwen and Gemma model families · MCP · API-based integrations
 
-I'm happy to connect about research, software development, open-source projects, and interesting engineering problems.
+## Independent Financial Markets Study
 
-- Portfolio: https://h02s.github.io
-- Email: contact@hdfmy.ir
+Independent study and monitoring of blockchain and cryptocurrency markets, Iran's stock market, and U.S. equity markets, including the Nasdaq and S&P 500. This is personal market research and learning, separate from software development and not professional employment or investment-advisory experience.
+
+## Working Approach
+
+- Build a clear understanding of the underlying concepts.
+- Implement ideas and evaluate them with practical experiments.
+- Prefer reproducible workflows, careful analysis, and useful documentation.
+- Keep learning across research, engineering, and open-source ecosystems.
 
 ---
 
-<sub>Learning continuously · Building thoughtfully · Sharing what I discover</sub>
+<sub>Research-minded · Implementation-focused · Always learning</sub>
